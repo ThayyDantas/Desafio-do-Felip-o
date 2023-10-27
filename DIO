@@ -1,0 +1,14 @@
+ed file with 3 additions and 1 deletion.
+  4 changes: 3 additions & 1 deletion4  
+index.js
+@@ -1,6 +1,6 @@
+let nome = "Monkey D. Luffy";
+
+let xp = 9999;
+let nivel;
+
+if (xp < 1000) {
+  nivel = "Ferro";
+@@ -22,3 +22,5 @@ if (xp < 1000) {
+
+console.log(`O Herói de nome ${nome} está no nível de ${nivel}`);
